@@ -24,12 +24,14 @@
 # $s0 - Use to store the number of valid hex pairs in the input string.
 # $ra - Return address register, used by the 'jal' and 'jr' instructions.
 ######################################################
+# Related Links:
+# Link to selection sort algorithm - https://www.geeksforgeeks.org/python-program-for-selection-sort/
 ######################## Data segment ########################
 .data
 	in_msg: .asciiz "\nPlease Enter a couples of hex digits spereated by $ (no longer than 36). \n"
 	in_error_msg: .asciiz "\nWrong input. \n"
-	sign_msg: .asciiz "\n Sign array elements: \n"
-	unsign_msg: .asciiz "\n Unsign array elements: \n"
+	sign_msg: .asciiz "\n Sign array elements (sorted): \n"
+	unsign_msg: .asciiz "\n Unsign array elements (sorted): \n"
 	stringhex: .space 37
 	NUM: .space 12
 	unsign: .space 12
