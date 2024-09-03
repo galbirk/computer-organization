@@ -50,86 +50,86 @@
     <a name="simulationFrequency" val="1.0"/>
     <comp lib="0" loc="(200,210)" name="Pin">
       <a name="appearance" val="classic"/>
-      <a name="label" val="a6"/>
+      <a name="label" val="I1"/>
     </comp>
     <comp lib="0" loc="(200,320)" name="Pin">
       <a name="appearance" val="classic"/>
-      <a name="label" val="a5"/>
+      <a name="label" val="I2"/>
     </comp>
     <comp lib="0" loc="(200,420)" name="Pin">
       <a name="appearance" val="classic"/>
-      <a name="label" val="a4"/>
+      <a name="label" val="I3"/>
     </comp>
     <comp lib="0" loc="(200,520)" name="Pin">
       <a name="appearance" val="classic"/>
-      <a name="label" val="a3"/>
+      <a name="label" val="I4"/>
     </comp>
     <comp lib="0" loc="(200,630)" name="Pin">
       <a name="appearance" val="classic"/>
-      <a name="label" val="a2"/>
+      <a name="label" val="I5"/>
     </comp>
     <comp lib="0" loc="(200,770)" name="Pin">
       <a name="appearance" val="classic"/>
-      <a name="label" val="a1"/>
+      <a name="label" val="I6"/>
     </comp>
     <comp lib="0" loc="(200,80)" name="Pin">
       <a name="appearance" val="classic"/>
-      <a name="label" val="a7"/>
+      <a name="label" val="I0"/>
     </comp>
     <comp lib="0" loc="(200,880)" name="Pin">
       <a name="appearance" val="classic"/>
-      <a name="label" val="a0"/>
+      <a name="label" val="I7"/>
     </comp>
     <comp lib="0" loc="(200,970)" name="Pin">
       <a name="appearance" val="classic"/>
-      <a name="label" val="d"/>
+      <a name="label" val="C"/>
     </comp>
     <comp lib="0" loc="(850,790)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="s0"/>
+      <a name="label" val="O7"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(860,200)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="s6"/>
+      <a name="label" val="O1"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(860,530)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="s3"/>
+      <a name="label" val="O4"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(860,640)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="s2"/>
+      <a name="label" val="O5"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(860,750)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="s1"/>
+      <a name="label" val="O6"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(870,120)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="s7"/>
+      <a name="label" val="O0"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(870,310)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="s5"/>
+      <a name="label" val="O2"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(870,420)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="s4"/>
+      <a name="label" val="O3"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="1" loc="(260,970)" name="NOT Gate"/>
